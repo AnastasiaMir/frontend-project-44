@@ -9,3 +9,9 @@ https://asciinema.org/a/ABw1cXyOcXN2pdM0RZDqsDYwC
 >>>>>>> 21e0cd26f691060113a19d59613e9320b9b3c149
 <!-- brain-calc asciinema -->
 https://asciinema.org/a/vRy6uXO3w1692lnJKllUUB7Nm
+<!-- brain-gcd asciinema -->
+https://asciinema.org/a/kJXfeVYLH8ZyUncuelnM9KAkF 
+<!-- brain-progression asciinema -->
+https://asciinema.org/a/6jMaH1LDDJPc4Ue16OLLfg8m2
+<!-- brain-prime asciinema -->
+https://asciinema.org/a/MyHJuZxWomNDXdTOV6nHCdX3H 
