@@ -8,7 +8,7 @@ const primeNumberGame = () => {
     const randomNumber = Math.floor(Math.random() * 100) + 1;
     let answer;
     for (let i = 2; i < randomNumber; i += 1) {
-      if (randomNumber % i === 0) {
+      if (randomNumber % i === 0 || randomNumber === 1) {
         answer = 'no';
         break;
       } else {
