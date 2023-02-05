@@ -1,15 +1,16 @@
 import readlineSync from 'readline-sync';
 
-console.log('Welcome to the Brain Games!');
-const name = readlineSync.question('May I have your name? ');
-console.log(`Hello, ${name}!`);
-const commonRule = (task, typeOfGame) => {
+const runEngine = (task, generateRound) => {
+  console.log('Welcome to the Brain Games!');
+  const name = readlineSync.question('May I have your name? ');
+  console.log(`Hello, ${name}!`);
   console.log(task);
-  for (let i = 3; i > 0; i -= 1) {
-    const answerAndQuestion = typeOfGame();
-    console.log(`Question: ${answerAndQuestion[0]}`);
+  const roundsCount = 3;
+  for (let i = 0; i < roundsCount; i += 1) {
+    const [question, answer] = generateRound();
+    console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ');
-    const correctAnswer = answerAndQuestion[1];
+    const correctAnswer = answer;
     if (userAnswer === correctAnswer) {
       console.log('Correct!');
     } else {
@@ -19,4 +20,4 @@ const commonRule = (task, typeOfGame) => {
   }
   console.log(`Congratulations, ${name}!`);
 };
-export default commonRule;
+export default runEngine;
