@@ -7,7 +7,7 @@ This brain-games project allows you to play several games and you are able to ch
 to clone project : https://github.com/AnastasiaMir/frontend-project-44.git
 
 <!-- brain-calc asciinema -->
-<script src="https://asciinema.org/a/GZk03XZ8v3HwCm06JRAXDCFjm" async></script>
+<script src="https://asciinema.org/a/GZk03XZ8v3HwCm06JRAXDCFjm" id="asciicast-14" async data-autoplay="true" data-size="big"></script>
 <!-- brain-even asciinema -->
 https://asciinema.org/a/ABw1cXyOcXN2pdM0RZDqsDYwC
 <!-- brain-gcd asciinema -->
