@@ -9,10 +9,10 @@ to clone project : https://github.com/AnastasiaMir/frontend-project-44.git
 <!-- brain-calc asciinema -->
 [![asciicast](https://asciinema.org/a/GZk03XZ8v3HwCm06JRAXDCFjm.svg)](https://asciinema.org/a/GZk03XZ8v3HwCm06JRAXDCFjm)
 <!-- brain-even asciinema -->
-https://asciinema.org/a/ABw1cXyOcXN2pdM0RZDqsDYwC
+[![asciicast](https://asciinema.org/a/lDEdP9Q6Tf1q6X9zXL34vYERm.svg)](https://asciinema.org/a/lDEdP9Q6Tf1q6X9zXL34vYERm)
 <!-- brain-gcd asciinema -->
-https://asciinema.org/a/kJXfeVYLH8ZyUncuelnM9KAkF 
+[![asciicast](https://asciinema.org/a/IA4gDZVGDEYK1Z48Kd3ioLPGZ.svg)](https://asciinema.org/a/IA4gDZVGDEYK1Z48Kd3ioLPGZ)
 <!-- brain-progression asciinema -->
-https://asciinema.org/a/6jMaH1LDDJPc4Ue16OLLfg8m2
+[![asciicast](https://asciinema.org/a/NfvFiFlOc9eudZTJd8e3d1f1u.svg)](https://asciinema.org/a/NfvFiFlOc9eudZTJd8e3d1f1u)
 <!-- brain-prime asciinema -->
-https://asciinema.org/a/MyHJuZxWomNDXdTOV6nHCdX3H 
+[![asciicast](https://asciinema.org/a/UyhLRDfhbRJWdfq0FsCtdBxRV.svg)](https://asciinema.org/a/UyhLRDfhbRJWdfq0FsCtdBxRV)
