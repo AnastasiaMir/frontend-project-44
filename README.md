@@ -1,5 +1,5 @@
 # BRAIN GAMES 
-This brain-games project allows you to play several games and you are able to check your personal math abilities. 
+~This brain-games project allows you to play several games and you are able to check your personal math abilities. 
 ____
 
 ### Hexlet tests and linter status:
